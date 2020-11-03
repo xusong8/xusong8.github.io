@@ -1,6 +1,6 @@
 <html>
  
-<body background=http://zhengjianzhao.jpg>
+<body background=zhengjianzhao.jpg>
  
 <table border="1" align="center" cellpadding="10" width="800">
 <tr>
@@ -14,7 +14,7 @@
     <td>20</td>
     <th bgcolor="BurlyWood">民族:</th>
     <td>汉族</td>
-    <td rowspan="3" width="100"<p><a href="zhengjianzhao。"><img border="0" src="" />
+    <td rowspan="3" width="100"<p><a href="zhengjianzhao.jpg"><img border="0" src="" />
 </a></p></td>
 </tr>
  
