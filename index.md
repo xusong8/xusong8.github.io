@@ -14,7 +14,7 @@
     <td>20</td>
     <th bgcolor="BurlyWood">民族:</th>
     <td>汉族</td>
-    <td rowspan="20" width="10"<p><a href="zhengjianzhao.jpg"><img border="0" src="zhengjianzhao.jpg" />
+    <td rowspan="5" width="10"<p><a href="zhengjianzhao.jpg"><img border="0" src="zhengjianzhao.jpg" />
 </a></p></td>
 </tr>
  
