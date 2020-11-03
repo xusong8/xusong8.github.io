@@ -1,6 +1,6 @@
 <html>
  
-<body background=http://p1.so.qhmsg.com/t01ed5a885549b6bf3b.jpg>
+<body background=http://zhengjianzhao.jpg>
  
 <table border="1" align="center" cellpadding="10" width="800">
 <tr>
@@ -54,19 +54,18 @@
 </tr>
  
 <tr>
-     <th height="160" bgcolor="BurlyWood"> 自我介绍:</th>
+     <th height="160" bgcolor="BurlyWood"> 荣誉奖励:</th>
      <td colspan="6">
-    <p>来自安徽省新店镇的一个小村庄里，我爱计算机，我爱</p>
-    <p>来自安徽省新店镇的一个小村庄里，我爱计算机，我爱</p>
-    <p>来自安徽省新店镇的一个小村庄里，我爱计算机，我爱</p>
+    <p>2018年荣获校级“优秀团员”称号</p>
+      <p>2018年荣获校级数学建模竞赛三等奖</p>
 </tr>
  
 <tr>
-     <th height="160" bgcolor="BurlyWood">总结:</th>
+     <th height="160" bgcolor="BurlyWood">自我评价:</th>
      <td colspan="6">
-    <p>来自安徽省新店镇的一个小村庄里，我爱计算机，我爱</p>
-    <p>来自安徽省新店镇的一个小村庄里，我爱计算机，我爱</p>
-    <p>来自安徽省新店镇的一个小村庄里，我爱计算机，我爱</p>
+    <p>本人思想上积极进取，在校任班级团支书和经统1821班助导，工作积极负责，有较强的责任感，有一定抗压能力，
+      和同学、班委的交流也让我的沟通能力得到提升，有较强的的团队意识和合作精神，能够熟练使用office办公软件；
+     生活上和同学相处融洽，乐观开朗；学习上认真刻苦，有良好的的学习态度，和同学互帮互助。</p>
 </tr>
  
 </body>
